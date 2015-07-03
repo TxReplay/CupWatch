@@ -22,3 +22,5 @@ Cupwatch is a website that allows you to create a collaborative playlist of yout
   }
 }
 ```
+
+*Note :* To create your API, go to the [Youtube developer documentation API](https://developers.google.com/youtube/v3/getting-started?hl=fr).
