@@ -1,0 +1,14 @@
+{
+    "name": "txreplay/cupwatch",
+    "require": {
+        "google/apiclient": "^1.1",
+        "ktamas77/firebase-php": "dev-master",
+        "firebase/token-generator": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Valentin",
+            "email": "txreplay@gmail.com"
+        }
+    ]
+}

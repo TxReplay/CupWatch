@@ -10,3 +10,15 @@ Cupwatch is a website that allows you to create a collaborative playlist of yout
 2. Go to your ```cd CupWatch ```
 3. Install Composer : ```curl -sS https://getcomposer.org/installer | php``` (or ```composer install``` if already installed globally)
 4. Install vendors : ```composer.phar install```
+5. Create an ```api_keys.json``` like this at the root folder :
+
+```
+{
+  "youtube": {
+    "DEVELOPER_KEY": "<DEVELOPER_KEY>"
+  },
+  "firebase": {
+    "ref": "<FIREBASE URL>"
+  }
+}
+```
