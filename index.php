@@ -71,10 +71,10 @@
     <div class="clearfix"></div>
 </div>
 
-<script src="assets/js/vendor/jquery.min.js"></script>
-<script src="assets/js/vendor/angular.min.js"></script>
+<script src="assets/js/dist/jquery.min.js"></script>
+<script src="assets/js/dist/angular.min.js"></script>
 <script src="https://cdn.firebase.com/js/client/2.2.7/firebase.js"></script>
-<script src="assets/js/vendor/auth.js"></script>
+<script src="assets/js/dist/auth.js"></script>
 <script src="https://apis.google.com/js/client.js?onload=googleApiClientReady" type="text/javascript"></script>
 <script src="assets/js/app.js"></script>
 </body>
